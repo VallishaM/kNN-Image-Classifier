@@ -1,6 +1,6 @@
 # kNN-Image-Classifier
 
-Use kNN for image classification
+### Use kNN for image classification
 
 Refer to the code for usage details
 
