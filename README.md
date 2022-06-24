@@ -2,7 +2,7 @@
 
 ### Use kNN for image classification
 
-Refer to the code for usage details
+#### Refer to the code for usage details
 
 the PATH attribute should be the path to the folder with the following structure
 
