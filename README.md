@@ -34,3 +34,11 @@ data
 
 
 (PATH=path to "data" folder)
+
+Sample Usage;
+
+![Screenshot from 2022-06-24 19-03-25 png-mh](https://user-images.githubusercontent.com/71862949/175547721-fa068348-00a4-477c-9a3a-6144e1bd00b5.png)
+
+
+
+
